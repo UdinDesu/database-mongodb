@@ -1,0 +1,78 @@
+[
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad411"
+    },
+    "name": "Hisyamudin",
+    "fullTime": true,
+    "registerDate": {
+      "$date": "2022-07-21T13:15:45Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad40c"
+    },
+    "name": "Buya Yahya",
+    "fullTime": true,
+    "registerDate": {
+      "$date": "2022-06-30T12:15:42Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653906dd2009fc5c3f853cea"
+    },
+    "name": "Bambang Santoso"
+  },
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad3f1"
+    },
+    "name": "Bambang Santoso"
+  },
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad3fd"
+    },
+    "name": "Dian Wahyuni"
+  },
+  {
+    "_id": {
+      "$oid": "653906dd2009fc5c3f853ce6"
+    },
+    "name": "Iqbal Fikhriansyah Romadhona"
+  },
+  {
+    "_id": {
+      "$oid": "653906dd2009fc5c3f853cff"
+    },
+    "name": "Hilda Wiyanti",
+    "fullTime": true,
+    "registerDate": {
+      "$date": "2022-04-15T07:01:05Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653906dd2009fc5c3f853cf6"
+    },
+    "name": "Dian Wahyuni"
+  },
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad406"
+    },
+    "name": "Hilda Wiyanti",
+    "fullTime": true,
+    "registerDate": {
+      "$date": "2022-04-15T07:01:05Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65390315f6b01447c22ad3ed"
+    },
+    "name": "Iqbal Fikhriansyah Romadhona"
+  }
+]
